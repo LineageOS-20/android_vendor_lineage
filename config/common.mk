@@ -245,7 +245,8 @@ PRODUCT_PACKAGES += \
     NetworkStackOverlay \
     TrebuchetOverlay \
     ThemedIconsOverlay \
-    CustomFontPixelLauncherOverlay
+    CustomFontPixelLauncherOverlay \
+    NexusLauncherResOverlay
 
 # Translations
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/crowdin/overlay
